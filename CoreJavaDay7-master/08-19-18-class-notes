@@ -1,0 +1,60 @@
+08-19-18-class-notes
+
+Submit the quiz plz.
+
+Nested class: Design a class inside a class.
+
+Enum->Enumeration
+
+Loop:
+
+For loop:
+
+[for](initialization block; conditional/terminator block; incremental/decremental block){
+Loop body
+
+}
+
+While loop:
+
+initialization block;
+[while](conditional/terminator block){
+
+ While Loop body
+ incremental/decremental block
+}
+
+Do While loop:
+
+Do{
+
+initialization block;
+Do some task;
+
+[while ](conditional/terminator block){
+
+ While Loop body
+ incremental/decremental block
+};
+
+For Each: ToDo
+
+Conditional/Logical statement:
+
+Exception Handling:
+
+Try{
+
+}catch(Exception ex){
+
+
+}
+
+File Operation:
+
+
+Array:
+
+GitHub SSH:
+
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
